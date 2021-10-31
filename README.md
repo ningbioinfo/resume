@@ -4,9 +4,10 @@
 
 *[Email](liu.n@wehi.edu.au)* / *[GitHub](https://github.com/ningbioinfostruggling)* / *[Twitter](https://twitter.com/lnly0311)*
 
-### Markdown
+### Academic & Professional Positions
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2020 - Current Research Officer,
+**Davis's Lab, Bioinformatics Division, Walter and Eliza Hall Institute of Medical Research**
 
 ```markdown
 Syntax highlighted code block
