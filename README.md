@@ -6,7 +6,7 @@
 
 ### Academic & Professional Positions
 
-2020 - Current Research Officer,
+2020 - Current Research Officer,  
 **Davis's Lab, Bioinformatics Division, Walter and Eliza Hall Institute of Medical Research**
 
 ```markdown
