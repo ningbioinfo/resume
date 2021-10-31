@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Dr Ning Liu
 
-You can use the [editor on GitHub](https://github.com/ningbioinfostruggling/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+*Bioinformatician by training based in Melbourne, Australia.*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*[Email](liu.n@wehi.edu.au)* / *[GitHub](https://github.com/ningbioinfostruggling)* / *[Twitter](https://twitter.com/lnly0311)*
 
 ### Markdown
 
