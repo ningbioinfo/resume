@@ -1,7 +1,12 @@
 ## Dr Ning Liu
 
-*Bioinformatician by training based in Melbourne, Australia.*
+*Bioinformatician by training, currently based in Melbourne, Australia.*
 
+*Research keywords: Spatial transcriptomics, Cancer Biology, SNPs, Chromosome conformation*
+
+*Frequently used languages: R, Python, Bash*
+
+**Contacts**
 *[Email](liu.n@wehi.edu.au)* / *[GitHub](https://github.com/ningbioinfostruggling)* / *[Twitter](https://twitter.com/lnly0311)*
 
 ### Academic & Professional Positions
