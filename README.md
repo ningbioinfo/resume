@@ -6,33 +6,37 @@
 
 ### Academic & Professional Positions
 
-2020 - Current Research Officer,  
+2021 - Current Research Officer,  
 **Davis's Lab, Bioinformatics Division, Walter and Eliza Hall Institute of Medical Research**
 
-```markdown
-Syntax highlighted code block
+### Education
 
-# Header 1
-## Header 2
-### Header 3
+2017 - 2021 **University of Adelaide, Australia** 
+PhD of Bioinformatics (Medicine)
+Supervisors: James Breen, Simon Barry & Rick Tearle
 
-- Bulleted
-- List
+2015 - 2017 **University of Adelaide, Australia**
+Master of Bioinformatics (Biomedical)
+Supervisors: James Breen & Simon Barry
 
-1. Numbered
-2. List
+2011 - 2015 **Xia'men University, China**
+Bachelor of Science (Biotechnology)
+Supervisor: Shengxiang Ge
 
-**Bold** and _Italic_ and `Code` text
+### Publications
 
-[Link](url) and ![Image](src)
-```
+#### Journal articles
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+##### 2021
 
-### Jekyll Themes
+##### 2020
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ningbioinfostruggling/resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Conference submissions (as presenting author)
 
-### Support or Contact
+### Professional Associations & Committees
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Journal reviewer records
+
+### Adwards
+
+
