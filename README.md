@@ -11,16 +11,16 @@
 
 ### Education
 
-2017 - 2021 **University of Adelaide, Australia** 
-PhD of Bioinformatics (Medicine)
+2017 - 2021 **University of Adelaide, Australia**  
+PhD of Bioinformatics (Medicine)  
 Supervisors: James Breen, Simon Barry & Rick Tearle
 
-2015 - 2017 **University of Adelaide, Australia**
-Master of Bioinformatics (Biomedical)
+2015 - 2017 **University of Adelaide, Australia**  
+Master of Bioinformatics (Biomedical)  
 Supervisors: James Breen & Simon Barry
 
-2011 - 2015 **Xia'men University, China**
-Bachelor of Science (Biotechnology)
+2011 - 2015 **Xia'men University, China**  
+Bachelor of Science (Biotechnology)  
 Supervisor: Shengxiang Ge
 
 ### Publications
