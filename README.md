@@ -91,8 +91,9 @@ Outstanding Academic Achievement Award 2016-2017 from Faculty of Sciences, Unive
 
 ## Other activities
 
-Course workshop designer and instructor of postgraduate course Genomics Applications (BIOINF 7150) in 2020.  
-Workshop tutor of bioinforamtics workshops: 
+Course workshop designer and instructor of postgraduate course Genomics Applications (BIOINF 7150) in 2020.
+
+Workshop tutor of bioinforamtics workshops:
 - Fall into bioinformatics in 2019. 
 - Spring into bioinformatics in 2019. 
 - RAdelaide workshop 2018. 
