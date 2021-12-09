@@ -97,6 +97,7 @@ Workshop tutor of bioinforamtics workshops:
 - Spring into bioinformatics in 2019. 
 - RAdelaide workshop 2018. 
 - RAdelaide workshop 2017.  
+
 Workshop tutor of postgraduate course Bioinformatics and Systems Modelling (BIOTECH 7005) in 2018.  
 Acitve member of ABACAS since 2016.  
 Executive committee of COMBINE in 2018 & 2019.  
