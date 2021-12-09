@@ -48,7 +48,18 @@ Wan, Q., Leemaqz, S.Y.L., Pederson, S.M., McCullough, D., McAninch, D.C., Jankov
 
 ### Conference submissions (as presenting author)
 
+#### 2019
 
+Ning Liu, Timothy Sadlon, Stephen Pederson, Simon Barry & James Breen; Using regulatory T cell-specific epigenomics data to
+uncover candidate mechanisms of Type-1 Diabetes (T1D); ABACBS 2019 Conference; November, 2019
+
+#### 2018
+
+Ning Liu, Hamid Alinejad-Rokny, Timothy Sadlon, Stephen Pederson, Simon Barry & James Breen; Identifying statistically
+significant Hi-C interactions from regulatory T cells and development of HiC-QC; ABACBS 2018 Conference; November, 2018  
+
+Ning Liu, Timothy Sadlon, Stephen Pederson, Simon Barry & James Breen; Investigating computational analysis pipelines and
+genomic proximity interactions in T lymphocytes; Lorne Genome 2018 Conference; February, 2018
 
 ## Professional Associations & Committees
 
@@ -62,4 +73,21 @@ Wan, Q., Leemaqz, S.Y.L., Pederson, S.M., McCullough, D., McAninch, D.C., Jankov
 
 ## Adwards
 
+### Travel grant
+
+Travel Grant of ABACBS Conference 2019 from ABACBS.  
+Travel Grant of ABACBS Conference 2018 from ABACBS.  
+Travel Grant of EMBL Australia PhD Course 2018 from EMBL Australia.
+
+### Conference prize
+
+Best Poster Talk of COMBINE Symposium 2019 from ABACBS.
+
+### Others
+
+Dean’s Commendation for Doctoral Thesis Excellence from University of Adelaide.  
+Outstanding Academic Achievement Award 2015-2016 from Faculty of Sciences, University of Adelaide.  
+Outstanding Academic Achievement Award 2016-2017 from Faculty of Sciences, University of Adelaide.
+
+### Other academic activities
 
