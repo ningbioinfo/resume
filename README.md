@@ -65,7 +65,7 @@ genomic proximity interactions in T lymphocytes; Lorne Genome 2018 Conference; F
 
 ## Journal reviewer records
 
-| Journal                    | # of reviews |
+| Journals                   | # of reviews |
 |----------------------------|--------------|
 | Briefing of Bioinformatics | 1            |
 | PLOS Computational Biology | 1            |
