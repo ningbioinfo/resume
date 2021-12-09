@@ -54,6 +54,12 @@ Wan, Q., Leemaqz, S.Y.L., Pederson, S.M., McCullough, D., McAninch, D.C., Jankov
 
 ## Journal reviewer records
 
+| Journal                    | # of reviews |
+|----------------------------|--------------|
+| Briefing of Bioinformatics | 1            |
+| PLOS Computational Biology | 1            |
+
+
 ## Adwards
 
 
