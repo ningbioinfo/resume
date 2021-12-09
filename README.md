@@ -1,5 +1,5 @@
 
-*Research keywords: Spatial transcriptomics, Cancer Biology, SNPs, Chromosome conformation*
+*Research keywords: Spatial transcriptomics, Cancer Biology, SNPs, Chromosome conformation, Data integration, Method/Package development*
 
 *Frequently used languages: R, Python, Bash*
 
