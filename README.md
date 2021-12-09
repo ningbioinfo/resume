@@ -89,5 +89,17 @@ Dean’s Commendation for Doctoral Thesis Excellence from University of Adelaide
 Outstanding Academic Achievement Award 2015-2016 from Faculty of Sciences, University of Adelaide.  
 Outstanding Academic Achievement Award 2016-2017 from Faculty of Sciences, University of Adelaide.
 
-### Other academic activities
+## Other activities
 
+Course workshop designer and instructor of postgraduate course Genomics Applications (BIOINF 7150) in 2020.  
+Workshop tutor of bioinforamtics workshops: 
+- Fall into bioinformatics in 2019. 
+- Spring into bioinformatics in 2019. 
+- RAdelaide workshop 2018. 
+- RAdelaide workshop 2017.  
+Workshop tutor of postgraduate course Bioinformatics and Systems Modelling (BIOTECH 7005) in 2018.  
+Acitve member of ABACAS since 2016.  
+Executive committee of COMBINE in 2018 & 2019.  
+Executive committee of COMBINE SYMPOSIUM 2017.  
+Executive committee of COMBINE SYMPOSIUM 2018.  
+Membership in Golden Key International Honour Society from 2015.  
