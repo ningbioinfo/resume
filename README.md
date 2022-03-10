@@ -28,6 +28,10 @@ Bachelor of Science (Biotechnology & Immunology)
 ## Publications
 
 ### Journal articles
+#### 2022
+
+D. Bhuva, Chin Wee Tan, Ning Liu, Holly J. Whitfield, Nicholas Papachristos, Sam Lee, Malvika Kharbanda, Ahmed Mohamed, Melissa J. Davis, 2022. vissE: A versatile tool to identify and visualise higher-order molecular phenotypes from functional enrichment analysis. bioRxiv.
+
 
 #### 2021
 
