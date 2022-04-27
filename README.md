@@ -30,6 +30,8 @@ Bachelor of Science (Biotechnology & Immunology)
 ### Journal articles
 #### 2022
 
+Liu, N., Kulasinghe, A., Tan, C.W., Monkman, J., Sinclair, J.E., Bhuva, D.D., Godbolt, D., Pan, L., Nam, A., Sadeghirad, H. and Sato, K., 2022. Transcriptomic profiling of cardiac tissues from SARS-CoV-2 patients identifies DNA damage. medRxiv.
+
 D. Bhuva, Chin Wee Tan, Ning Liu, Holly J. Whitfield, Nicholas Papachristos, Sam Lee, Malvika Kharbanda, Ahmed Mohamed, Melissa J. Davis, 2022. vissE: A versatile tool to identify and visualise higher-order molecular phenotypes from functional enrichment analysis. bioRxiv.
 
 
