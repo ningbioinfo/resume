@@ -27,6 +27,10 @@ Bachelor of Science (Biotechnology & Immunology)
 
 ## Publications
 
+### Software packages
+#### 2022
+Liu N, Bhuva D, Mohamed A (2022). standR: Spatial transcriptome analyses of Nanostring's DSP data in R. R package version 1.0.0, Bioconductor version: Release (3.15), https://bioconductor.org/packages/standR.
+
 ### Journal articles
 #### 2022
 
