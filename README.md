@@ -34,6 +34,8 @@ Liu N, Bhuva D, Mohamed A (2022). standR: Spatial transcriptome analyses of Nano
 ### Journal articles
 #### 2022
 
+Liu, N., Sadlon, T., Wong, Y.Y., Pederson, S., Breen, J. and Barry, S.C., 2022. 3DFAACTS-SNP: using regulatory T cell-specific epigenomics data to uncover candidate mechanisms of type 1 diabetes (T1D) risk. Epigenetics & Chromatin, 15(1), pp.1-21.
+
 Liu, N., Kulasinghe, A., Tan, C.W., Monkman, J., Sinclair, J.E., Bhuva, D.D., Godbolt, D., Pan, L., Nam, A., Sadeghirad, H. and Sato, K., 2022. Transcriptomic profiling of cardiac tissues from SARS-CoV-2 patients identifies DNA damage. medRxiv.
 
 D. Bhuva, Chin Wee Tan, Ning Liu, Holly J. Whitfield, Nicholas Papachristos, Sam Lee, Malvika Kharbanda, Ahmed Mohamed, Melissa J. Davis, 2022. vissE: A versatile tool to identify and visualise higher-order molecular phenotypes from functional enrichment analysis. bioRxiv.
@@ -45,8 +47,6 @@ Liu, N., Low, W. Y., Alinejad-Rokny, H., Pederson, S., Sadlon, T., Barry, S., & 
 
 
 #### 2020
-
-Liu, N., Sadlon, T., Wong, Y.Y., Pederson, S.M., Breen, J. and Barry, S.C., 2020. 3DFAACTS-SNP: Using regulatory T cell-specific epigenomics data to uncover candidate mechanisms of Type-1 Diabetes (T1D) risk. bioRxiv.  
 
 Brown, C.Y., Sadlon, T., Hope, C.M., Wong, Y.Y., Wong, S., Liu, N., Withers, H., Brown, K., Bandara, V., Gundsambuu, B. and Pederson, S., 2020. Molecular Insights Into Regulatory T-Cell Adaptation to Self, Environment, and Host Tissues: Plasticity or Loss of Function in Autoimmune Disease. Frontiers in Immunology, 11, p.1269.
 
