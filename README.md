@@ -101,6 +101,8 @@ Outstanding Academic Achievement Award 2016-2017 from Faculty of Sciences, Unive
 
 ## Other activities
 
+Workshop designer and instructor of workshop: *Introduction to bioinformatics analysis of GeoMX transcriptomics data with standR* in the Orchestra platform.
+
 Course workshop designer and instructor of postgraduate course Genomics Applications (BIOINF 7150) in 2020.
 
 Workshop tutor of bioinforamtics workshops:
