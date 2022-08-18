@@ -34,6 +34,8 @@ Liu N, Bhuva D, Mohamed A (2022). standR: Spatial transcriptome analyses of Nano
 ### Journal articles
 #### 2022
 
+Wong, Y.Y., Harbison, J.E., Hope, C.M., Gundsambuu, B., Brown, K.A., Wong, S.W., Brown, C., Couper, J.J., Breen, J., Liu, N. and Pederson, S.M., 2022. Parallel recovery of chromatin accessibility and gene expression dynamics from frozen human Regulatory T cells.
+
 Liu, N., Sadlon, T., Wong, Y.Y., Pederson, S., Breen, J. and Barry, S.C., 2022. 3DFAACTS-SNP: using regulatory T cell-specific epigenomics data to uncover candidate mechanisms of type 1 diabetes (T1D) risk. Epigenetics & Chromatin, 15(1), pp.1-21.
 
 Liu, N., Kulasinghe, A., Tan, C.W., Monkman, J., Sinclair, J.E., Bhuva, D.D., Godbolt, D., Pan, L., Nam, A., Sadeghirad, H. and Sato, K., 2022. Transcriptomic profiling of cardiac tissues from SARS-CoV-2 patients identifies DNA damage. medRxiv.
