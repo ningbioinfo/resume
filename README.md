@@ -32,6 +32,12 @@ Bachelor of Science (Biotechnology & Immunology)
 Liu N, Bhuva D, Mohamed A (2022). standR: Spatial transcriptome analyses of Nanostring's DSP data in R. R package version 1.0.0, Bioconductor version: Release (3.15), https://bioconductor.org/packages/standR.
 
 ### Journal articles
+#### 2023
+
+Sadeghirad, H., Liu, N., Monkman, J., Ma, N., Cheikh, B.B., Jhaveri, N., Tan, C.W., Warkiani, M.E., Adams, M.N., Nguyen, Q. and Ladwa, R., Compartmentalised spatial profiling of the tumour microenvironment in head and neck squamous cell carcinoma identifies immune checkpoint molecules and tumour necrosis factor receptor superfamily members as biomarkers of response to immunotherapy. Frontiers in Immunology, 14, p.1384.
+
+Bhuva, D.D., Tan, C.W., Marceaux, C., Chen, J., Kharbanda, M., Jin, X., Liu, N., Feher, K., Putri, G., Asselin-Labat, M.L. and Phipson, B., 2023. Library size confounds biology in spatial transcriptomics data. bioRxiv, pp.2023-03.
+
 #### 2022
 
 Wong, Y.Y., Harbison, J.E., Hope, C.M., Gundsambuu, B., Brown, K.A., Wong, S.W., Brown, C., Couper, J.J., Breen, J., Liu, N. and Pederson, S.M., 2022. Parallel recovery of chromatin accessibility and gene expression dynamics from frozen human Regulatory T cells.
