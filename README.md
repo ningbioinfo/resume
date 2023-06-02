@@ -1,5 +1,5 @@
 
-*Research keywords: Spatial transcriptomics, Cancer Biology, SNPs, Chromosome conformation, Data integration, Method/Package development*
+*Research keywords: Spatial transcriptomics, Cancer Biology, Machine Learning, Genomics, Chromosome conformation, Data integration, Method/Package development*
 
 *Frequently used languages: R, Python, Bash*
 
@@ -34,6 +34,10 @@ Liu N, Bhuva D, Mohamed A (2022). standR: Spatial transcriptome analyses of Nano
 ### Journal articles
 #### 2023
 
+Mohamed, A., Bhuva, D.D., Lee, S., Liu, N., Tan, C.W. and Davis, M.J., 2023. vissE. cloud: a webserver to visualise higher order molecular phenotypes from enrichment analysis. Nucleic Acids Research, p.gkad337.
+
+Liu, N., Bhuva, D.D., Mohamed, A., Bokelund, M., Kulasinghe, A., Tan, C.W. and Davis, M.J., 2023. standR: a Bioconductor package for analysing transcriptomic Nanostring GeoMx DSP data. bioRxiv, pp.2023-04.
+
 Sadeghirad, H., Liu, N., Monkman, J., Ma, N., Cheikh, B.B., Jhaveri, N., Tan, C.W., Warkiani, M.E., Adams, M.N., Nguyen, Q. and Ladwa, R., Compartmentalised spatial profiling of the tumour microenvironment in head and neck squamous cell carcinoma identifies immune checkpoint molecules and tumour necrosis factor receptor superfamily members as biomarkers of response to immunotherapy. Frontiers in Immunology, 14, p.1384.
 
 Bhuva, D.D., Tan, C.W., Marceaux, C., Chen, J., Kharbanda, M., Jin, X., Liu, N., Feher, K., Putri, G., Asselin-Labat, M.L. and Phipson, B., 2023. Library size confounds biology in spatial transcriptomics data. bioRxiv, pp.2023-03.
@@ -65,6 +69,10 @@ Wan, Q., Leemaqz, S.Y.L., Pederson, S.M., McCullough, D., McAninch, D.C., Jankov
 
 
 ### Conference submissions (as presenting author)
+
+#### 2023
+
+Ning Liu; Spatial transcriptome profiling of non-small cell lung cancer (NSCLC) by analysing GeoMx DSP data; Australian Lung Cancer Conference; Feburary, 2023
 
 #### 2019
 
