@@ -38,6 +38,8 @@ Mohamed, A., Bhuva, D.D., Lee, S., Liu, N., Tan, C.W. and Davis, M.J., 2023. vis
 
 Liu, N., Bhuva, D.D., Mohamed, A., Bokelund, M., Kulasinghe, A., Tan, C.W. and Davis, M.J., 2023. standR: a Bioconductor package for analysing transcriptomic Nanostring GeoMx DSP data. bioRxiv, pp.2023-04.
 
+Liu, N., Kulasinghe, A., Tan, C.W., Monkman, J., Sinclair, J.E., Bhuva, D.D., Godbolt, D., Pan, L., Nam, A., Sadeghirad, H. and Sato, K., 2023. Transcriptomic profiling of cardiac tissues from SARS‐CoV‐2 patients identifies DNA damage. Immunology, 168(3), pp.403-419.
+
 Sadeghirad, H., Liu, N., Monkman, J., Ma, N., Cheikh, B.B., Jhaveri, N., Tan, C.W., Warkiani, M.E., Adams, M.N., Nguyen, Q. and Ladwa, R., Compartmentalised spatial profiling of the tumour microenvironment in head and neck squamous cell carcinoma identifies immune checkpoint molecules and tumour necrosis factor receptor superfamily members as biomarkers of response to immunotherapy. Frontiers in Immunology, 14, p.1384.
 
 Bhuva, D.D., Tan, C.W., Marceaux, C., Chen, J., Kharbanda, M., Jin, X., Liu, N., Feher, K., Putri, G., Asselin-Labat, M.L. and Phipson, B., 2023. Library size confounds biology in spatial transcriptomics data. bioRxiv, pp.2023-03.
@@ -47,8 +49,6 @@ Bhuva, D.D., Tan, C.W., Marceaux, C., Chen, J., Kharbanda, M., Jin, X., Liu, N.,
 Wong, Y.Y., Harbison, J.E., Hope, C.M., Gundsambuu, B., Brown, K.A., Wong, S.W., Brown, C., Couper, J.J., Breen, J., Liu, N. and Pederson, S.M., 2022. Parallel recovery of chromatin accessibility and gene expression dynamics from frozen human Regulatory T cells.
 
 Liu, N., Sadlon, T., Wong, Y.Y., Pederson, S., Breen, J. and Barry, S.C., 2022. 3DFAACTS-SNP: using regulatory T cell-specific epigenomics data to uncover candidate mechanisms of type 1 diabetes (T1D) risk. Epigenetics & Chromatin, 15(1), pp.1-21.
-
-Liu, N., Kulasinghe, A., Tan, C.W., Monkman, J., Sinclair, J.E., Bhuva, D.D., Godbolt, D., Pan, L., Nam, A., Sadeghirad, H. and Sato, K., 2022. Transcriptomic profiling of cardiac tissues from SARS-CoV-2 patients identifies DNA damage. medRxiv.
 
 D. Bhuva, Chin Wee Tan, Ning Liu, Holly J. Whitfield, Nicholas Papachristos, Sam Lee, Malvika Kharbanda, Ahmed Mohamed, Melissa J. Davis, 2022. vissE: A versatile tool to identify and visualise higher-order molecular phenotypes from functional enrichment analysis. bioRxiv.
 
